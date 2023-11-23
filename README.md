@@ -274,6 +274,12 @@ Check out [this demo video](https://youtu.be/Dna_Hp-s78I).
 
 ### Run directly.
 
+1. Install dependecies
+
+   ```bash 
+   sudo apt install libjpeg-dev zlib1g-dev
+   ```
+
 1. Install the required python packages.
 
    ```bash

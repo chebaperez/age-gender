@@ -136,3 +136,6 @@ saved/
 
 # confidential images
 test-images-dangerous
+
+# test images
+test-images
